@@ -235,7 +235,7 @@ h3{
 	font-size: 1.3rem;
 }
 .sprites1{
-	background-image: url(images/sprite-icons.png);
+	background-image: url(../images/sprite-icons.png);
 	margin: 0 auto 50px;
 	width: 60px;
 	height:60px;
@@ -246,7 +246,7 @@ h3{
 	margin: 0 auto 50px;
 	width: 60px;
 	height:60px;
-	background-image: url(images/sprite-icons.png);
+	background-image: url(../images/sprite-icons.png);
 	background-position: -71px 0;	
 }
 
@@ -254,7 +254,7 @@ h3{
 	margin: 0 auto 50px;
 	width: 60px;
 	height:60px;
-	background-image: url(images/sprite-icons.png);
+	background-image: url(../images/sprite-icons.png);
 	background-position: 60px 0;	
 }
 	
