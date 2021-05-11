@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-family: 'segicons';
   src: url('../fonts/segicons.eot?65778044');
   src: url('../fonts/segicons.eot?65778044#iefix') format('embedded-opentype'),
@@ -7,7 +7,7 @@
        url('../fonts/segicons.svg?65778044#segicons') format('svg');
   font-weight: normal;
   font-style: normal;
-}
+} */
 /* RESETEO MARGIN Y PADING */
 *{
 	margin: 0;
