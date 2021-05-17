@@ -198,7 +198,7 @@ button{
 	display: flex;
 	flex-direction: column;
 }
-.contenedor-presentacion__articulo h1{
+.contenedor-presentacion__titulo{
 	font-family: 'Nunito', sans-serif;
 	font-size: 50px;
 }
