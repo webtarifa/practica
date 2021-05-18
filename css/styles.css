@@ -41,7 +41,9 @@ header img{
     margin-left: auto;
 	 						
 }
-
+.h1oculto{
+	display: none;
+}
 header ul{
 	display: flex;
 	align-items: center;
